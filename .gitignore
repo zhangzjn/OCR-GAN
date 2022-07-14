@@ -4,9 +4,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.idea
-*/__pycache__
-*/*/__pycache__
+.idea/
+*/__pycache__/
+*/*/__pycache__/
 
 # C extensions
 *.so
