@@ -54,3 +54,18 @@ Train **OCR-GAN** model.
 ```shell
 python train_all.py --dataset all --isize 256 --niter 200 --model ocr_gan_aug --batchsize 32
 ```
+
+### Citation
+If our work is helpful for your research, please consider citing:
+```
+@article{liang2022omni,
+  title={Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection},
+  author={Liang, Yufei and Zhang, Jiangning and Zhao, Shiwei and Wu, Runze and Liu, Yong and Pan, Shuwen},
+  journal={arXiv preprint arXiv:2203.00259},
+  year={2022}
+}
+```
+
+### Acknowledgements
+We thank the great work [GANomaly](https://github.com/samet-akcay/ganomaly) for providing assistance for our research.
+
